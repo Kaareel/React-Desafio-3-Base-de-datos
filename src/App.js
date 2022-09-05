@@ -2,7 +2,7 @@ import Header from "./componentes/Header";
 import Informacion from "./componentes/Informacion";
 import Button from "./componentes/Button";
 import ListaColaboradores from "./componentes/Listado";
-import base from "./base.json";
+import BaseColaboradores from "./BaseColaboradores.json";
 import { useState } from "react";
 
 function App() {
