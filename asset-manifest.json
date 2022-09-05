@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Desafio-3-Base-de-datos/static/css/main.ea4c87bc.css",
+    "main.js": "/React-Desafio-3-Base-de-datos/static/js/main.67a280c1.js",
+    "static/js/787.b842ecb7.chunk.js": "/React-Desafio-3-Base-de-datos/static/js/787.b842ecb7.chunk.js",
+    "index.html": "/React-Desafio-3-Base-de-datos/index.html",
+    "main.ea4c87bc.css.map": "/React-Desafio-3-Base-de-datos/static/css/main.ea4c87bc.css.map",
+    "main.67a280c1.js.map": "/React-Desafio-3-Base-de-datos/static/js/main.67a280c1.js.map",
+    "787.b842ecb7.chunk.js.map": "/React-Desafio-3-Base-de-datos/static/js/787.b842ecb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4c87bc.css",
+    "static/js/main.67a280c1.js"
+  ]
+}
